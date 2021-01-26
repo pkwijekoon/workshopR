@@ -1,0 +1,17 @@
+---
+title: "Pushpakanthie Wijekoon"
+image: "pw.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/Pkwijekoon"
+  - label: GitHub
+    url: "https://github.com/pkwijekoon"
+  - label: Email
+    url: "mailto:pkwijekoon@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a Statistics Professor of Department of Statistics and Computer Science, University of Peradeniya, Sri Lanka. I use R for teaching, research, writing books, developing packages and dashboards, and setting up blogs.
